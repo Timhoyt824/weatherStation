@@ -5,8 +5,11 @@ Basic weather station app using bootstrap and openweather.org api. Its very bare
 
 ## Deployed Site
 
-[Tim's Weather Station](https://timhoyt824.github.io/weathersStation/)
+[Tim's Weather Station](https://timhoyt824.github.io/weatherStation/)
 
+## Screenshot
+
+![Weather Station](weatherStation.png?raw=true "Weather Station")
 ## License
 
 Copyright <2020> <Tim Hoyt>
